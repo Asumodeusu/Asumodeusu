@@ -6,10 +6,7 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwind-css&logoColor=fff)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white)
 ![i18next](https://img.shields.io/badge/i18next-26A69A?logo=i18next&logoColor=white)
-![Yandex](https://img.shields.io/badge/Yandex_Maps-FC3F1D?logo=yandex&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000?logo=bun)
-![Elysia](https://img.shields.io/badge/Elysia-8A2BE2)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=fff)
 
