@@ -1,5 +1,7 @@
-#👋 Приветсвую всех, меня зовут Илья 
+👋 Приветсвую всех, меня зовут Илья 
+
 Frontend-разработчик
+
 ![Frontend-JS](https://img.shields.io/badge/Frontend-JS-F7DF1E?logo=javascript)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?logo=css-modules&logoColor=white)
@@ -18,9 +20,9 @@ Frontend-разработчик
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=000)
 ![Stylelint](https://img.shields.io/badge/Stylelint-263238?logo=stylelint&logoColor=fff)
 
-##До IT — 7 лет управления проектами и анализа данных в геологии. Начал с Python для расчётов, ушёл во фронтенд. Теперь создаю интерфейсы, которые приносят пользу.
+До IT — 7 лет управления проектами и анализа данных в геологии. Начал с Python для расчётов, ушёл во фронтенд. Теперь создаю интерфейсы, которые приносят пользу.
 
-##Ключевое:
+Ключевое:
 
 👨‍💻 Разрабатываю React-приложения с нуля (банк, full-stack на Bun)
 
@@ -30,7 +32,7 @@ Frontend-разработчик
 
 ⚡️ Использую AI-инструменты для скорости и качества
 
-##Проекты:
+Проекты:
 
 💰 Money Bank — мобильное банковское приложение (React, TS, API ЦБ, Яндекс.Карты)
 
@@ -38,7 +40,7 @@ Frontend-разработчик
 
 🧪 AutoTest — 20+ unit-тестов на Bun
 
-##Контакты:
+Контакты:
 📬 Telegram · ✉️ ishergin@mail.ru · 💻 GitHub
 
 ✅ Открыт к предложениям · Удалёнка / гибрид / редкие командировки
