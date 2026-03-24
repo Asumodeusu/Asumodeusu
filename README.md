@@ -19,8 +19,7 @@
 - Пишу тесты (Jest, Bun), настраиваю линтеры и Storybook
 
 🚀 **Проекты:**
-- [Money Bank](https://github.com/Asumodeusu/Money-bank) — мобильное банковское приложение с курсами валют и картой отделений 
-- Демо - [`money-bank-m.vercel.app`](https://money-bank-m.vercel.app/)
+- [Money Bank](https://github.com/Asumodeusu/Money-bank) — мобильное банковское приложение с курсами валют и картой отделений ([`money-bank-m.vercel.app`](https://money-bank-m.vercel.app/))
 - [API-FRONT](https://github.com/Asumodeusu/API-FRONT) — full-stack приложение на Bun/Elysia для бронирования
 - [AutoTest](https://github.com/Asumodeusu/AutoTest) — 20+ unit-тестов на Bun (калькулятор, FizzBuzz, Stack)
 
